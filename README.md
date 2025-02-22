@@ -1,4 +1,4 @@
-# College- Engagement- App
+# CollegeInsides
 > A web application where college students can engage to each other by posting blogs
 related to the technical things or software related
 > Students can also share their interview experience and also post any job opening notices , so other
@@ -11,8 +11,13 @@ students can grab those opportunities and will get experience of interview proce
 
 
 ## Screenshots
-![CE-1](https://user-images.githubusercontent.com/63578169/171345594-d201702e-e150-4fc4-bab2-f61f3c639867.png)
-![CE-3](https://user-images.githubusercontent.com/63578169/171345742-3640efdd-04fd-4349-9d3f-ec206113c19a.png)
-![CE-4](https://user-images.githubusercontent.com/63578169/171345788-e2a6f481-56b3-4688-b594-a9ef94d31309.png)
-![CE-5](https://user-images.githubusercontent.com/63578169/171345836-88401e7f-2599-4c61-a28d-bcbab6ae616d.png)
-![CE-2](https://user-images.githubusercontent.com/63578169/171345678-7be8b08b-bee5-416a-b4ed-4d8488372831.png)
+![Image](https://github.com/user-attachments/assets/850f60bd-94b0-4480-8c08-1f615e94b231)
+
+![Image](https://github.com/user-attachments/assets/6be66951-5931-4256-89cc-114c5a326386)
+
+![Image](https://github.com/user-attachments/assets/c61af223-2bfa-411c-82bc-a6cb9829078c)
+
+![Image](https://github.com/user-attachments/assets/3c7db20b-9009-4ba0-95e0-f4a4e9186ad7)
+
+![Image](https://github.com/user-attachments/assets/0afd57a2-5908-413f-a9ef-c956021f19e6)
+
